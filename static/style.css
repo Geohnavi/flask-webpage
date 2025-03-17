@@ -1,0 +1,37 @@
+/* Apply background color */
+body {
+    background-color: #c19ff1; /* Purple */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Center the content box */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #ffffff;  /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Style heading */
+h1 {
+    color: #180033;
+}
+
+/* Style paragraph */
+p {
+    color: #180033;
+}
+/* Style the logo */
+.logo {
+    display: block;
+    margin: 0 auto;  /* Center the logo */
+    width: 150px;  /* Adjust width */
+    height: auto;  /* Maintain aspect ratio */
+    border-radius: 10px;  /* Optional: rounded corners */
+}
+
